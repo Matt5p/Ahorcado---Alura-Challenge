@@ -159,7 +159,7 @@ body {
         border-radius: 6px;
     }
 
-    .canvas {
+    .canvas * revisar el vh */
        width: 100%;
        text-align: center;
     }
@@ -172,7 +172,7 @@ body {
     }
 
     .footer{
-        height: 10vh;
+        height: 10vh; /* revisar el vh */
         text-align: center;
         font-family: 'Roboto',sans-serif;
     }
