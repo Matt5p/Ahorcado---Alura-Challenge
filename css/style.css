@@ -159,7 +159,7 @@ body {
         border-radius: 6px;
     }
 
-    .canvas * revisar el vh */
+    .canvas /* revisar el vh */{
        width: 100%;
        text-align: center;
     }
